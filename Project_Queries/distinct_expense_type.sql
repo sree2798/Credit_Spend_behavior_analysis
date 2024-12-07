@@ -1,0 +1,1 @@
+select distinct [exp_type] from credit_transactions;

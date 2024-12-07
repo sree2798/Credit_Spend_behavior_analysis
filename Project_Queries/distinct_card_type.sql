@@ -1,0 +1,1 @@
+select distinct card_type from credit_transactions
