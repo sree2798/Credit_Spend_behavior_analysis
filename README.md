@@ -23,7 +23,7 @@ The analysis focuses on addressing the following key goals:
 - Find the city that took the **least number of days** to reach its 500th transaction after the first transaction.
 - Identify **transaction milestones** and significant spending thresholds for reporting purposes.
 
-## Expected Deliverables
+## Deliverables
 The analysis should include:
 
 - **Key Findings**: Insights derived from the data for each of the goals listed above.
